@@ -1,0 +1,10 @@
+
+git remote add origin1 git@github.com:ivanjaraiz/ProyectUart.git
+
+::::::::::::::::PROBLEMILLAS::::::::::::::::::::::::::
+1. No se tenía la clave actualiza.. ha habido que poner la MAC, irse a manage licence.. ect. 
+2. No se pudo generar el bitstream, porque no se tenia el .xdc adjunto al proyecto 
+3. Es posible que sea necesario asginar los puertos de la UART, ya que en el I/O Planning no estaban con el click OK. 
+4. Acabo de ver un posible problema, se tenía una UART0 conectada al los EMIO, y al aire, eso puede ser un problema, ya que no esta 
+asignado a nada. 
+

@@ -1,0 +1,6 @@
+12:33:23 INFO  : Registering command handlers for SDK TCF services
+12:33:25 INFO  : Launching XSCT server: xsct.bat -interactive C:\Xilinx\Xilinx_Training\ProyectUart\ProjectUart.sdk\temp_xsdb_launch_script.tcl
+12:33:34 INFO  : XSCT server has started successfully.
+12:33:56 INFO  : Successfully done setting XSCT server connection channel  
+12:33:56 INFO  : Successfully done setting SDK workspace  
+12:33:56 INFO  : Processing command line option -hwspec C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper.hdf.
