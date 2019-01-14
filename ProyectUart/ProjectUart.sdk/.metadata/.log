@@ -2818,3 +2818,877 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.cdt.core 1 0 2019-01-14 12:56:30.014
 !MESSAGE Indexed 'standalone_bsp_0_xuartps_hello_world_example_1' (1 sources, 34 headers) in 0,419 sec: 631 declarations; 1.303 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:24.153
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:24.168
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:24.178
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:24.198
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "6.1",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:24.200
+!MESSAGE XSCT Command: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:24.211
+!MESSAGE XSCT command with result: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:43.739
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:43.773
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:43.783
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:43.813
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "6.1",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:43.826
+!MESSAGE XSCT Command: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:02:43.843
+!MESSAGE XSCT command with result: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:08.512
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:08.523
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:08.541
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:08.553
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "6.1",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:08.562
+!MESSAGE XSCT Command: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:08.568
+!MESSAGE XSCT command with result: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 1 0 2019-01-14 13:03:17.494
+!MESSAGE Updating toolusage
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.513
+!MESSAGE XSCT Command: [::hsi::utils::get_ps_config_params -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.533
+!MESSAGE XSCT command with result: [::hsi::utils::get_ps_config_params -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Result: [null, {"PCW_APU_PERIPHERAL_FREQMHZ": "667",
+"PCW_DDR_HPRLPR_QUEUE_PARTITION": "HPR(0)/LPR(32)",
+"PCW_DDR_HPR_TO_CRITICAL_PRIORITY_LEVEL": "15",
+"PCW_DDR_LPR_TO_CRITICAL_PRIORITY_LEVEL": "2",
+"PCW_DDR_PORT0_HPR_ENABLE": "0",
+"PCW_DDR_PORT1_HPR_ENABLE": "0",
+"PCW_DDR_PORT2_HPR_ENABLE": "0",
+"PCW_DDR_PORT3_HPR_ENABLE": "0",
+"PCW_DDR_WRITE_TO_CRITICAL_PRIORITY_LEVEL": "2",
+"PCW_FPGA0_PERIPHERAL_FREQMHZ": "50",
+"PCW_UIPARAM_DDR_BUS_WIDTH": "32 Bit",
+"PCW_UIPARAM_DDR_FREQ_MHZ": "533.333333",
+}]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.543
+!MESSAGE XSCT Command: [::hsi::utils::get_cpu_nr -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.574
+!MESSAGE XSCT command with result: [::hsi::utils::get_cpu_nr -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Result: [null, {"ps7_cortexa9_0": {"bscan": "",
+"index": "0",
+},
+"ps7_cortexa9_1": {"bscan": "",
+"index": "1",
+},
+}]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.581
+!MESSAGE XSCT Command: [::hsi::utils::get_addr_ranges -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.701
+!MESSAGE XSCT command with result: [::hsi::utils::get_addr_ranges -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1], Result: [null, {"ps7_afi_0": {"name": "ps7_afi_0",
+"base": "0xF8008000",
+"high": "0xF8008FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_afi_1": {"name": "ps7_afi_1",
+"base": "0xF8009000",
+"high": "0xF8009FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_afi_2": {"name": "ps7_afi_2",
+"base": "0xF800A000",
+"high": "0xF800AFFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_afi_3": {"name": "ps7_afi_3",
+"base": "0xF800B000",
+"high": "0xF800BFFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_coresight_comp_0": {"name": "ps7_coresight_comp_0",
+"base": "0xF8800000",
+"high": "0xF88FFFFF",
+"size": "1048576",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_ddrc_0": {"name": "ps7_ddrc_0",
+"base": "0xF8006000",
+"high": "0xF8006FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_dev_cfg_0": {"name": "ps7_dev_cfg_0",
+"base": "0xF8007000",
+"high": "0xF80070FF",
+"size": "256",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_dma_ns": {"name": "ps7_dma_ns",
+"base": "0xF8004000",
+"high": "0xF8004FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_dma_s": {"name": "ps7_dma_s",
+"base": "0xF8003000",
+"high": "0xF8003FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_globaltimer_0": {"name": "ps7_globaltimer_0",
+"base": "0xF8F00200",
+"high": "0xF8F002FF",
+"size": "256",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_gpv_0": {"name": "ps7_gpv_0",
+"base": "0xF8900000",
+"high": "0xF89FFFFF",
+"size": "1048576",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_intc_dist_0": {"name": "ps7_intc_dist_0",
+"base": "0xF8F01000",
+"high": "0xF8F01FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_iop_bus_config_0": {"name": "ps7_iop_bus_config_0",
+"base": "0xE0200000",
+"high": "0xE0200FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_l2cachec_0": {"name": "ps7_l2cachec_0",
+"base": "0xF8F02000",
+"high": "0xF8F02FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_ocmc_0": {"name": "ps7_ocmc_0",
+"base": "0xF800C000",
+"high": "0xF800CFFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_pl310_0": {"name": "ps7_pl310_0",
+"base": "0xF8F02000",
+"high": "0xF8F02FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_pmu_0": {"name": "ps7_pmu_0",
+"base": "0xF8893000",
+"high": "0xF8893FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_qspi_0": {"name": "ps7_qspi_0",
+"base": "0xE000D000",
+"high": "0xE000DFFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_scuc_0": {"name": "ps7_scuc_0",
+"base": "0xF8F00000",
+"high": "0xF8F000FC",
+"size": "253",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_scugic_0": {"name": "ps7_scugic_0",
+"base": "0xF8F00100",
+"high": "0xF8F001FF",
+"size": "256",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_scutimer_0": {"name": "ps7_scutimer_0",
+"base": "0xF8F00600",
+"high": "0xF8F0061F",
+"size": "32",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_scuwdt_0": {"name": "ps7_scuwdt_0",
+"base": "0xF8F00620",
+"high": "0xF8F006FF",
+"size": "224",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_slcr_0": {"name": "ps7_slcr_0",
+"base": "0xF8000000",
+"high": "0xF8000FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_uart_1": {"name": "ps7_uart_1",
+"base": "0xE0001000",
+"high": "0xE0001FFF",
+"size": "4096",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_xadc_0": {"name": "ps7_xadc_0",
+"base": "0xF8007100",
+"high": "0xF8007120",
+"size": "33",
+"slaveintf": "",
+"type": "REGISTER",
+"flags": "3",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_qspi_linear_0": {"name": "ps7_qspi_linear_0",
+"base": "0xFC000000",
+"high": "0xFCFFFFFF",
+"size": "16777216",
+"slaveintf": "",
+"type": "MEMORY",
+"flags": "5",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_ddr_0": {"name": "ps7_ddr_0",
+"base": "0x00100000",
+"high": "0x3FFFFFFF",
+"size": "1072693248",
+"slaveintf": "",
+"type": "MEMORY",
+"flags": "7",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_ram_0": {"name": "ps7_ram_0",
+"base": "0x00000000",
+"high": "0x0002FFFF",
+"size": "196608",
+"slaveintf": "",
+"type": "MEMORY",
+"flags": "7",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+"ps7_ram_1": {"name": "ps7_ram_1",
+"base": "0xFFFF0000",
+"high": "0xFFFFFDFF",
+"size": "65024",
+"slaveintf": "",
+"type": "MEMORY",
+"flags": "7",
+"segment": "",
+"acctype": "",
+"tz": "",
+},
+}]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.719
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_ENABLED], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.742
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_ENABLED], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.752
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_EVENT_COUNTERS], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.767
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_EVENT_COUNTERS], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.772
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_LATENCY_COUNTERS], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.792
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_LATENCY_COUNTERS], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.795
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_COUNTER_WIDTH], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.813
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_DEBUG_COUNTER_WIDTH], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.823
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_FREQ], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.846
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_FREQ], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.860
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_CPU_CLK_FREQ_HZ], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.890
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_param_value C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf ps7_cortexa9_1 C_CPU_CLK_FREQ_HZ], Result: [null, 666666687]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.929
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_files_on_hw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf bit], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.938
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_files_on_hw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf bit], Result: [null, designbd_uart_wrapper.bit]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:17.969
+!MESSAGE XSCT Command: [connect -url tcp:127.0.0.1:3121], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:20.662
+!MESSAGE XSCT command with result: [connect -url tcp:127.0.0.1:3121], Result: [null, tcfchan#1]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:20.672
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:21.833
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:21.839
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:21.879
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:21.889
+!MESSAGE XSCT Command: [targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==0} -index 1], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:22.100
+!MESSAGE XSCT command with result: [targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==0} -index 1], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:22.151
+!MESSAGE XSCT Command: [fpga -state], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:22.243
+!MESSAGE XSCT command with result: [fpga -state], Result: [null, FPGA is not configured]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.413
+!MESSAGE XSCT Command: [connect -url tcp:127.0.0.1:3121], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.498
+!MESSAGE XSCT command with result: [connect -url tcp:127.0.0.1:3121], Result: [null, tcfchan#1]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.512
+!MESSAGE XSCT Command: [version -server], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.792
+!MESSAGE XSCT command with result: [version -server], Result: [null, 2016.4]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.802
+!MESSAGE XSCT Command: [version], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.819
+!MESSAGE XSCT command with result: [version], Result: [null, 2016.4]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.830
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.844
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.854
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.891
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.898
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.917
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.926
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.963
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.969
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.979
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:33.993
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.033
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.038
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.052
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.059
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.103
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.109
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.123
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.131
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.173
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.179
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.199
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1  Digilent Zybo Z7 210351A78402A]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.209
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.252
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z020 (idcode 23727093 irlen 6 fpga)]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.259
+!MESSAGE XSCT Command: [jtag targets -set -filter {name =~ "Digilent Zybo Z7 210351A78402A" && level == 0}], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.293
+!MESSAGE XSCT command with result: [jtag targets -set -filter {name =~ "Digilent Zybo Z7 210351A78402A" && level == 0}], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.299
+!MESSAGE XSCT Command: [jtag frequency], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.309
+!MESSAGE XSCT command with result: [jtag frequency], Result: [null, 15000000]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.319
+!MESSAGE XSCT Command: [source C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/ps7_init.tcl], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.323
+!MESSAGE XSCT command with result: [source C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/ps7_init.tcl], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.329
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.389
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.399
+!MESSAGE XSCT Command: [loadhw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.460
+!MESSAGE XSCT command with result: [loadhw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Result: [null, designbd_uart_wrapper]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.469
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.509
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.519
+!MESSAGE XSCT Command: [stop], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.563
+!MESSAGE XSCT command with result: [stop], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:34.569
+!MESSAGE XSCT Command: [ps7_init], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.309
+!MESSAGE XSCT command with result: [ps7_init], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.323
+!MESSAGE XSCT Command: [ps7_post_config], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.329
+!MESSAGE XSCT command with result: [ps7_post_config], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.341
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.395
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.401
+!MESSAGE XSCT Command: [rst -processor], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.478
+!MESSAGE XSCT command with result: [rst -processor], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.488
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.548
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.553
+!MESSAGE XSCT Command: [dow C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0_xuartps_hello_world_example_1/Debug/standalone_bsp_0_xuartps_hello_world_example_1.elf], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.740
+!MESSAGE XSCT command with result: [dow C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0_xuartps_hello_world_example_1/Debug/standalone_bsp_0_xuartps_hello_world_example_1.elf], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.901
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.962
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zybo Z7 210351A78402A"} -index 0], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:35.973
+!MESSAGE XSCT Command: [con], Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:03:36.058
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-1
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.549
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.559
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.573
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.583
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "6.1",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.592
+!MESSAGE XSCT Command: [::hsi::utils::get_config_params_for_sw -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.619
+!MESSAGE XSCT command with result: [::hsi::utils::get_config_params_for_sw -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"ps7_cortexa9_0": {"archiver": {"category": "",
+"value": "arm-none-eabi-ar",
+"default": "arm-none-eabi-ar",
+"type": "string",
+"desc": "Archiver used to archive libraries for both BSP generation as well as for applications",
+"permit": "",
+"options": {},
+"range": "",
+},
+"compiler": {"category": "",
+"value": "arm-none-eabi-gcc",
+"default": "arm-none-eabi-gcc",
+"type": "string",
+"desc": "Compiler used to compile both BSP/Libraries and Applications.",
+"permit": "",
+"options": {},
+"range": "",
+},
+"compiler_flags": {"category": "",
+"value": "-O2 -c",
+"default": "-O2 -c",
+"type": "string",
+"desc": "Compiler flags used in BSP and library generation. '-c' flag stands for 'compile and assemble, but do not link'. Without this flag, gcc tries to link the code, which will fail bacause there is no application involved during libgen. '-O2' can be overwritten by extra compiler flags",
+"permit": "none",
+"options": {},
+"range": "",
+},
+"extra_compiler_flags": {"category": "",
+"value": "-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles",
+"default": "-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles",
+"type": "string",
+"desc": "Extra compiler flags used in BSP and library generation.",
+"permit": "",
+"options": {},
+"range": "",
+},
+},
+"standalone": {"enable_sw_intrusive_profiling": {"category": "sw_intrusive_profiling",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Enable S/W Intrusive Profiling on Hardware Targets",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"microblaze_exceptions": {"category": "microblaze_exceptions",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Enable MicroBlaze Exceptions",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"predecode_fpu_exceptions": {"category": "microblaze_exceptions",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "(MicroBlaze) Predecode FPU exceptions and save operand info before invoking user registered exception handler.",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"profile_timer": {"category": "sw_intrusive_profiling",
+"value": "none",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "Specify the Timer to use for Profiling. For PowerPC system, specify none to use PIT timer. For ARM system, specify none to use SCU timer",
+"permit": "",
+"options": {},
+"range": "",
+},
+"stdin": {"category": "",
+"value": "ps7_uart_1",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "stdin peripheral",
+"permit": "",
+"options": {},
+"range": "ps7_coresight_comp_0 ps7_uart_1",
+},
+"stdout": {"category": "",
+"value": "ps7_uart_1",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "stdout peripheral",
+"permit": "",
+"options": {},
+"range": "ps7_coresight_comp_0 ps7_uart_1",
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.632
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.639
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.649
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:01.659
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "6.1",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.562
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.572
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.580
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.590
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.597
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.606
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.611
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.620
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.629
+!MESSAGE XSCT Command: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.629
+!MESSAGE XSCT command with result: [::hsi::utils::closesw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.679
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.693
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.704
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.726
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "6.1",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.733
+!MESSAGE XSCT Command: [::hsi::utils::openhw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.739
+!MESSAGE XSCT command with result: [::hsi::utils::openhw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.739
+!MESSAGE XSCT Command: [::hsi::utils::opensw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.753
+!MESSAGE XSCT command with result: [::hsi::utils::opensw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.759
+!MESSAGE XSCT Command: [::hsi::utils::generate_app_template -hw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf -sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss -app empty_application -processor ps7_cortexa9_0 -os standalone -dir C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0_xuartps_polled_example_1/src], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-01-14 13:43:02.849
+!MESSAGE XSCT command with result: [::hsi::utils::generate_app_template -hw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/designbd_uart_wrapper_hw_platform_0/system.hdf -sw C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0/system.mss -app empty_application -processor ps7_cortexa9_0 -os standalone -dir C:/Xilinx/Xilinx_Training/ProyectUart/ProjectUart.sdk/standalone_bsp_0_xuartps_polled_example_1/src], Result: [null, ]. Thread: main
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-01-14 13:43:04.630
+!MESSAGE Indexed 'standalone_bsp_0_xuartps_polled_example_1' (1 sources, 34 headers) in 1,21 sec: 635 declarations; 1.358 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)

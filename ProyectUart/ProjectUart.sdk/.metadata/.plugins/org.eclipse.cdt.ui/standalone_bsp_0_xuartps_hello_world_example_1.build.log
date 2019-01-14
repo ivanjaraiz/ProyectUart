@@ -1,8 +1,8 @@
-12:56:36 **** Auto Build of configuration Debug for project standalone_bsp_0_xuartps_hello_world_example_1 ****
+13:03:16 **** Incremental Build of configuration Debug for project standalone_bsp_0_xuartps_hello_world_example_1 ****
 make pre-build main-build 
 a9-linaro-pre-build-step
 ' '
 make: No se hace nada para `main-build'.
 
-12:56:36 Build Finished (took 615ms)
+13:03:16 Build Finished (took 518ms)
 
