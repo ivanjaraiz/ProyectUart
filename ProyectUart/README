@@ -7,4 +7,7 @@ git remote add origin1 git@github.com:ivanjaraiz/ProyectUart.git
 3. Es posible que sea necesario asginar los puertos de la UART, ya que en el I/O Planning no estaban con el click OK. 
 4. Acabo de ver un posible problema, se tenía una UART0 conectada al los EMIO, y al aire, eso puede ser un problema, ya que no esta 
 asignado a nada. 
+5. Se puede manejr el proyecto de VIvado, desde git externamente! los cambios que hago aquí en el bash, se actualizan instantanemente 
+en el proyecto en SDK. AMAZING!!!
+
 
