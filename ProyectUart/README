@@ -9,5 +9,6 @@ git remote add origin1 git@github.com:ivanjaraiz/ProyectUart.git
 asignado a nada. 
 5. Se puede manejr el proyecto de VIvado, desde git externamente! los cambios que hago aquí en el bash, se actualizan instantanemente 
 en el proyecto en SDK. AMAZING!!!
-
+6.Conectado con el repositorio de Github, podemos tener el proyecto desde el server en privado, y con la llave ssh, 
+dando acceso a diferentes usuarios. GOOOOOOD!
 
