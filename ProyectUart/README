@@ -13,3 +13,10 @@ en el proyecto en SDK. AMAZING!!!
 dando acceso a diferentes usuarios. GOOOOOOD!
 
 Hello world! hecho, para el ejemplo básico de UART
+::::
+
+En el ejemplo de polled mode tenemos dos buffer!!! 
+donde se mete un patrón en el buffer para TX! se pone la uart en modo localmode! y se espera a recebir el 
+patrón en el buffer RX! luego se comparan ambos buffer! y en efecto se ve que el patrón llega. 
+Importante, desde modo depuración podemos ver en la misma RAM como van cambiandlo los valores, según la 
+dirección de cada buffer, en tiempo REAL! nice!!!
